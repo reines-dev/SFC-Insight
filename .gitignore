@@ -1,0 +1,13 @@
+# Local configuration
+.env
+GEMINI.md
+*.docx
+linkedin_article.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data
+data/
